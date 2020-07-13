@@ -1,0 +1,12 @@
+{
+  "name": "FitTrack",
+  "displayName": "FitTrack",
+  "expo": {
+    "name": "FitTrack",
+    "slug": "FitTrack",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
